@@ -1,5 +1,4 @@
-# a-demo
-This is my first Git Repository
+
 # Hey there! 👋 I'm Suchismita B
 
 🚀 Tech Enthusiast  
