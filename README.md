@@ -4,7 +4,7 @@ This is my first Git Repository
 🚀 Tech Enthusiast  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=helloiamsuchi&show_icons=true&theme=radical)
 # Studying in 1st year
-# 🛠 Tech Stack  
+
 ## 🚀 Tech Stack  
 
 <p align="left">
@@ -15,10 +15,10 @@ This is my first Git Repository
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/>  
 </p>
 
-# 🤓 About Me  
+# 📍 About Me  
 - 🔭 I’m currently learning **AI & ML**  
 - 📚 Love reading books
-# Socials
+
 ## 📫 Connect with Me  
 <p align="left">
   <a href="https://linkedin.com/in/suchismita-behera-57417a315" target="_blank">
