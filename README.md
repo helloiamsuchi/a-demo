@@ -4,27 +4,22 @@ This is my first Git Repository
 
 🚀 Tech Enthusiast  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=helloiamsuchi&show_icons=true&theme=radical)
-
 # Studying in 1st year
 
-## 🚀 Tech Stack  
+## 🌐 Socials :
+<a href="https://www.linkedin.com/in/suchismita-behera-57417a315/">
+ <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/>  
-</p>
+### 🧰 Tech stack :
+[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,vscode,github,firebase,flutter)](https://skillicons.dev)
+---
 
-# 📍 About Me  
-- 🔭 I’m currently learning **AI & ML**  
-- 📚 Love reading books
+### 📊 Stats :
+![](https://github-readme-stats.vercel.app/api?username=helloiamsuchi&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
-## 📫 Connect with Me  
-<p align="left">
-  <a href="https://linkedin.com/in/suchismita-behera-57417a315" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
-  </a>
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=helloiamsuchi&theme=radical&hide_border=true)
+</div>
+
+## Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloiamsuchi)](https://github.com/helloiamsuchi/github-readme-stats)
